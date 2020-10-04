@@ -1,0 +1,3 @@
+[submodule "src/data"]
+	path = src/data
+	url = https://github.com/foss-np/sabda
