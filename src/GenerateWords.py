@@ -31,7 +31,7 @@ def generate_transliterals_templates():
         tokens.update(tokenize(text))
 
     tokens = list(tokens)
-    words_per_file = 20
+    words_per_file = 25
     for i in range((len(tokens) // words_per_file)):
         dictionary_template = (dict(zip(tokens[i * words_per_file: (i+1) * words_per_file], [''] * words_per_file)))
         json.dump(dictionary_template, open("../transliterals/transliteral_words_{:03d}.json".format(i), 'w'), indent=2, ensure_ascii=False)
