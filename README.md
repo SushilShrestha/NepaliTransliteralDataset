@@ -24,13 +24,3 @@ Expected endresult is shown in `transliteral_words_000.json` file.
 🎉🎉🎉🎉
 
 
-## Meta
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-> Date mapping data taken from 
-https://github.com/bahadurbaniya/Date-Converter-Bikram-Sambat-to-English-Date
-
-
-
-
