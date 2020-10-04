@@ -11,6 +11,20 @@ This repository aims to maintain mapping of unicode nepali words with its transl
 
 You can start editing the file under `transliterals` folder and send a pull request after you update the transliterals for each file in that folder. Each file can be counted as a single pull request. 
 
+For example, Given following template on the file, fill up the empty transliteral word for each unicode word.
+```json
+{
+  "ओ": "",
+  "पक्डिदेउ": "",
+  "मल्ल": "",
+  "हिँडेछु": "",
+  "स्वतन्त्र": "",
+  "पुग्न": "",
+  "हर्षले": "",
+  "डिउटी": ""
+}
+```
+
 Expected endresult is shown in `transliteral_words_000.json` file.
 
 #### Creating a pull request
