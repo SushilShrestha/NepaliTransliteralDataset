@@ -9,7 +9,7 @@ This repository aims to maintain mapping of unicode nepali words with its transl
 ## Contributing
 **Every contribution made to the repo will be counted towards hacktober fest points.** Feel free to contribute and let's maintain a solid dataset for Nepali transliteration.
 
-You can start editing the file under `transliterals` folder and send a pull request after you update the transliterals for each file in that folder. Each file can be counted as a single pull request. 
+You can start editing the file under `transliterals` folder and send a pull request after you update the transliterals. Any amount of contribution is welcome. 
 
 Expected endresult is shown in `transliteral_words_000.json` file.
 
